@@ -1,0 +1,7 @@
+streamlit
+joblib
+openai-whisper
+torch
+numpy
+scikit-learn
+ffmpeg-python
